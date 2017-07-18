@@ -1,1 +1,0 @@
-# chef-automate-hol-cookbooks
